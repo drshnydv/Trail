@@ -2,13 +2,12 @@ package Practice;
 
 import org.testng.annotations.Test;
 
-public class fourTest extends Base {
+public class sixTest extends Base {
 	
 	@Test(groups = "smoke")
 	public void fourthTest() {
 		
-		System.out.println("Smoke 2");
+		System.out.println("Smoke 3");
 		
 	}
-
 }

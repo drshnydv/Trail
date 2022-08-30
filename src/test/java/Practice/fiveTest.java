@@ -2,12 +2,12 @@ package Practice;
 
 import org.testng.annotations.Test;
 
-public class oneTest extends Base {
+public class fiveTest extends Base{
 	
 	@Test(groups = "regression")
 	public void firstTest() {
 		
-		System.out.println("Regression 1");
+		System.out.println("Regression 3");
 		
 	}
 
