@@ -7,7 +7,7 @@ public class threeTest extends Base{
 	@Test(groups = "Regression")
 	public void thirdTest() {
 		
-		System.out.println("Three");
+		System.out.println("Regression 2");
 		
 	}
 
