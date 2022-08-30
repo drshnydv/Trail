@@ -4,8 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Practice.twoTest"/>
-      <class name="Practice.fourTest"/>
-      
+      <class name="Practice.fourTest"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
